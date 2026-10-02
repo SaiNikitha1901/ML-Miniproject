@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+.venv/
+__pycache__/
+
+# Large raw datasets (must not be committed)
+data/raw/
+*.csv
+*.zip
+
+# OS / IDE
+.vscode/
+.DS_Store
